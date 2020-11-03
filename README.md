@@ -18,9 +18,11 @@
   - add perturbations to original image to break the binary image classifier
   - increase perturbations and verify tradeoff
   
-# Dataset
+# Dataset and pretrained models
 
-In this notebook a slightly restructured version of the PASCAL VOC 2009 dataset is used. It will be automatically fetched from Google Drive. If that is not the case, please contact the author. 
+- In this notebook a slightly restructured version of the PASCAL VOC 2009 dataset is used. It will be automatically fetched from Google Drive.
+- All models used in this notebook are automatically fetched. If you want to train them from scratch, change the booleans accordingly .
+- If you are unable to fetch dataset or the models, please open an issue of contact the author. 
 
 # Disclaimer
 
