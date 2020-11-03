@@ -17,7 +17,7 @@ Consider running with Google Colab for a swift run-through.
   - plot performance after Transfer Learning and present improvements
 ## break the classifier
   - train a binary image classifier (with transfer learning)
-  - build an adverserial network (Autoencoder) to generate perturbations
+  - build an adverserial network (Autoencoder) for learning to generate perturbations
   - add perturbations to original image to break the binary image classifier
   - increase perturbations and verify tradeoff
   
