@@ -1,5 +1,8 @@
-## In this repository I:
-### multi-label classification
+The following notebook should run from start to end without errors. If not, please open an issue.
+Consider running with Google Colab for a swift run-through.
+
+# In this repository I:
+## multi-label classification
   - analyze and preprocess the PASCAL VOC 2009 dataset
   - try solve data imbalance issues, define loss function, and determine metrics 
   - build two CNN multi-label classifiers based on existing architectures in Keras
@@ -12,7 +15,7 @@
   - use Transfer Learning to achieve better performance
         - solution is a pretrained MobileNet CNN on ImageNet
   - plot performance after Transfer Learning and present improvements
-### break the classifier
+## break the classifier
   - train a binary image classifier (with transfer learning)
   - build an adverserial network (Autoencoder) to generate perturbations
   - add perturbations to original image to break the binary image classifier
