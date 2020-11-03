@@ -29,4 +29,6 @@ Consider running with Google Colab for a swift run-through.
 
 # Disclaimer
 
-The author is not responsible nor accountable for the utilization of this code in any given setting. Please do not use this in production. 
+- If you are a student looking to utilize this notebook, please consult your school's policies first and prevent plagiarism.
+- The author is not responsible nor accountable for consequences of using this code in any given setting. Please do not use this in production. 
+
